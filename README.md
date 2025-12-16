@@ -165,6 +165,17 @@
    •	Units Sold เป็นตัวขับเคลื่อนหลักของ Total Sales ตัวแปรที่เกี่ยวข้องกับ Units Sold มีอิทธิพลสูงที่สุด แสดงว่าปริมาณการขายคือปัจจัยสำคัญที่สุดในการสร้างรายได้
    •	ราคา × ปริมาณขาย ต้องพิจารณาร่วมกัน Interaction ระหว่าง Price per Unit และ Units Sold มีผลชัด แสดงว่ากลยุทธ์ราคาและปริมาณต้องออกแบบควบคู่กัน
 
+6.**Retailer Strategy สำคัญไม่แพ้ Channel Strategy**
+   • Foot Locker และ West Gear เป็น Retailer หลักที่สร้างยอดขายสูงสุด
+   • Retailer เหล่านี้มีความเชี่ยวชาญด้าน Street / Athletic และเข้าถึงลูกค้ากลุ่ม Mass ได้ดี
+
+7.**Region West = High Volume แต่ไม่ใช่ High Margin**
+   • West เป็น Region ที่มียอดขายสูงสุดเกือบทุก Product Category แต่ Operating Margin ไม่ได้สูงสุด และมี Outliers ต่ำ 
+   • ตรงข้ามกับ South ที่ยอดขายไม่สูงสุด แต่ ทำกำไรได้ดีที่สุด
+
+8.**Seasonality เป็นความเสี่ยงที่ต้องบริหาร**
+   • ทุก Region มียอดขายสูงช่วง กลาง–ปลายปี
+   • Insight นี้สำคัญต่อการวาง Inventory & Promotion Calendar
 
 ---
 
